@@ -1,0 +1,51 @@
+/* Selector de Ids */
+
+#encabezado{
+    top: 0;
+    left: 0;
+    height: 10%;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+#menu{
+    top: 10%;
+    left: 0;
+    height: 5%;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    background-color: coral;
+}
+
+#barraLateral{
+    top: 15%;
+    left: 0;
+    height: 75%;
+    width: 20%;
+    position: fixed;
+    text-align: center;
+    background-color: olive;
+}
+
+#contenido{
+    top: 15%;
+    left: 20%;
+    height: 75%;
+    width: 80%;
+    position: fixed;
+    text-align: center;
+    background-color: slategrey;
+}
+
+#piePagina{
+    bottom: 0%;
+    left: 0%;
+    height: 10%;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    background-color: darkslategrey;
+}
