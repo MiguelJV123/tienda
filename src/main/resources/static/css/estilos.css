@@ -49,3 +49,47 @@
     text-align: center;
     background-color: darkslategrey;
 }
+
+
+.parrafoBlanco{
+    color : white;
+}
+
+.parrafoCentrado{
+    text-align: center;
+}
+
+/*p{
+    font-size: 20px;
+}*/
+
+/*p, h1, h2 {
+    font-size: 15px;
+}*/
+
+div p{
+    font-size: 25px;
+}
+
+/** {
+    font-size: 10px;
+}*/
+
+/*body{
+    background-color: azure;
+}*/
+
+a:visited{
+    font-size: 30px;
+}
+
+a:hover{
+    background-color: green;
+    color:wheat;
+    transition: 0.7s;
+}
+
+a:active{
+    background-color: violet;
+    color:wheat;
+}
